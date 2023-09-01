@@ -29,6 +29,6 @@ Below you’ll find a collection of general principles we try to keep in mind at
 - Great news delivered on the heels of bad news makes both bits worse. The bad news feels like it’s being buried, the good news feels like it’s being injected to change the mood. Be honest with each by giving them adequate space.
 - Time is on your side, rushing makes conversations worse.
 - Communication is lossy, especially verbal communication. Every hearsay hop adds static and chips at fidelity. Whenever possible, communicate directly with those you’re addressing rather than passing the message through intermediaries.
-Ask if things are clear. Ask what you left out. Ask if there was anything someone was expecting that you didn’t cover. Address the gaps before they widen with time.
-Consider where you put things. The right communication in the wrong place might as well not exist at all. When someone relies on search to find something it’s often because it wasn’t where they expected something to be.
-Communication often interrupts, so good communication is often about saying the right thing at the right time in the right way with the fewest side effects.
+- Ask if things are clear. Ask what you left out. Ask if there was anything someone was expecting that you didn’t cover. Address the gaps before they widen with time.
+- Consider where you put things. The right communication in the wrong place might as well not exist at all. When someone relies on search to find something it’s often because it wasn’t where they expected something to be.
+- Communication often interrupts, so good communication is often about saying the right thing at the right time in the right way with the fewest side effects.
