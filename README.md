@@ -1,5 +1,5 @@
 #Rules of thumb, and general philosophy
- Below you’ll find a collection of general principles we try to keep in mind at 37signals when communicating with teammates, within departments, across the company, and with the public. They aren’t requirements, but they serve to create boundaries and shared practices to draw upon when we do the one thing that affects everything else we do: communicate.
+Below you’ll find a collection of general principles we try to keep in mind at 37signals when communicating with teammates, within departments, across the company, and with the public. They aren’t requirements, but they serve to create boundaries and shared practices to draw upon when we do the one thing that affects everything else we do: communicate.
 
 - You can not not communicate. Not discussing the elephant in the room is communicating. Few things are as important to study, practice, and perfect as clear communication.
 - Real-time sometimes, asynchronous most of the time.
